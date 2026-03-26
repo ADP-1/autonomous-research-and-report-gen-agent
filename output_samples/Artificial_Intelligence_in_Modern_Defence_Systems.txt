@@ -1,0 +1,122 @@
+
+=================================================================
+                    AUTONOMOUS RESEARCH AGENT
+                         Research Report
+=================================================================
+
+Topic: Artificial Intelligence in Modern Defence Systems
+Date : March 26, 2026
+
+=================================================================
+
+=================================================================
+                      AGENT EXECUTION TRACE
+=================================================================
+  Steps : search_web → search_wikipedia → generate_report
+  Total : 3 step(s)
+
+=================================================================
+
+═════════════════════════════════════════════════════════════════
+  1. INTRODUCTION
+─────────────────────────────────────────────────────────────────
+An AI arms race has been observed since 2010 among multiple
+nations as they strive to acquire superior AI capabilities within
+their defence sectors. This report aims to provide insights into
+various aspects related to modern warfare's integration with
+cutting-edge artificial intelligence technologies, including
+lethal autonomous weapon systems. We endeavor to analyze both
+current challenges and emerging trends that shape this ongoing
+rivalry, ultimately leading us closer to understanding how power
+dynamics may evolve regarding AI dominance across countries.
+
+
+═════════════════════════════════════════════════════════════════
+  2. KEY FINDINGS
+─────────────────────────────────────────────────────────────────
+  • Some scholars argue that the introduction of intelligent
+    machines into warfare could lead to devastating consequences
+    if not properly regulated.
+  • However, others believe that AI has the potential to
+    revolutionize modern defence systems and provide
+    unprecedented capabilities.
+  • Many countries around the world are investing heavily in
+    developing their own AI technologies for use in national
+    security efforts.
+  • For instance, China has made significant progress in creating
+    its own AI arsenal, including unmanned aerial vehicles (UAVs)
+    capable of carrying out independent missions.
+  • Similarly, Russia has been working on developing
+    sophisticated cyberwarfare tactics using AI algorithms
+    designed to exploit vulnerabilities in enemy networks.
+
+
+═════════════════════════════════════════════════════════════════
+  3. CHALLENGES
+─────────────────────────────────────────────────────────────────
+  • Technical: One challenge lies in ensuring that AI algorithms
+    remain secure from cyber attacks targeting their sensitive
+    data and code. This requires effective cybersecurity measures
+    to protect against potential vulnerabilities.
+  • Ethical: Another challenge concerns the ethical implications
+    of using highly automated weaponry equipped with AI
+    capabilities. Questions arise regarding accountability,
+    transparency, and adherence to international humanitarian law
+    when machines make life-or-death decisions on the
+    battlefield.
+  • Economic: Developing advanced AI technologies for defense
+    applications often involves significant financial
+    investments. Balancing limited resources allocated towards
+    defense spending while also funding civilian priorities poses
+    a complex budgetary constraint.
+  • Social: Public acceptance and trust in armed forces utilizing
+    AI may be hindered due to fears surrounding job displacement
+    among human personnel and concerns about increased potential
+    for unintended consequences during warfare.
+
+
+═════════════════════════════════════════════════════════════════
+  4. FUTURE SCOPE
+─────────────────────────────────────────────────────────────────
+In the next few years, one potential development that could shape
+modern defence systems is the integration of artificial
+intelligence into combat operations. This would involve using
+machine learning algorithms and predictive analytics to assist
+soldiers on the battlefield, improving decision making and
+situational awareness. However, beyond this immediate impact,
+longer term possibilities include fully automated warfare led by
+machines without human intervention. While some may worry about
+the ethical implications of delegating life-and-death decisions
+to robots, others argue that it can reduce casualties and
+increase overall efficiency in conflict zones. Ultimately, while
+there will be challenges associated with integrating new
+technologies like AI into military contexts, advancements in
+these fields offer promising opportunities for enhancing national
+security efforts.
+
+
+═════════════════════════════════════════════════════════════════
+  5. CONCLUSION
+─────────────────────────────────────────────────────────────────
+The development of artificial intelligence (AI) has
+revolutionized modern defence systems by enhancing their
+capabilities and efficiency. However, it also poses significant
+challenges that need to be addressed carefully and responsibly.
+These include ethical dilemmas regarding human control and
+accountability of autonomous weapon systems, cybersecurity risks
+related to hacking and sabotage of sensitive information and
+networks, and social implications of displacing human soldiers
+from combat roles and affecting public trust and morale. Despite
+these difficulties, there is hope that AI can enable peaceful
+cooperation and mutual benefit among nations, as well as foster
+innovation and scientific progress beyond warfare applications.
+Therefore, effective regulation and dialogue among stakeholders
+must ensure that AI serves humanity's common good and respects
+its values and rights.
+
+=================================================================
+                          END OF REPORT
+=================================================================
+  Generated by : ReAct Research Agent
+  Model        : Microsoft Phi-2
+  Tools        : DuckDuckGo + Wikipedia
