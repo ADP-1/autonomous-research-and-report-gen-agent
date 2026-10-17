@@ -114,6 +114,15 @@ Cell 10 → ▶️ RUN — enter your topic here
 
 ---
 
+### Optional: Research with Parallel Search MCP
+
+Follow the [Parallel Search MCP Colab guide](docs/parallel-search.md) to gather
+web excerpts and source URLs with free, keyless search, then pass the context to
+the existing report generator. This is a separate manual workflow; the default
+DuckDuckGo and Wikipedia agent stays the same.
+
+---
+
 ## 📤 Sample Output
 
 ```
